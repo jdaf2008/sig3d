@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "altura": 12,
+        "propietario": "esperanza",
+        "cedula": 123456789,
+        "precio": 20000000,
+        "mascota": "chavita"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1487830877304,
+              4.62979181754595
+            ],
+            [
+              -74.14861410856247,
+              4.629652797764018
+            ],
+            [
+              -74.14848804473877,
+              4.629783797174657
+            ],
+            [
+              -74.14866775274277,
+              4.629946878039734
+            ],
+            [
+              -74.1487830877304,
+              4.62979181754595
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "altura": 2,
+        "propietario": "pedro",
+        "cedula": 1231,
+        "precio": 200,
+        "mascota": "kaiser"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.1488716006279,
+              4.629393472328549
+            ],
+            [
+              -74.14862483739853,
+              4.629393472328549
+            ],
+            [
+              -74.14862483739853,
+              4.629572594031248
+            ],
+            [
+              -74.1488716006279,
+              4.629572594031248
+            ],
+            [
+              -74.1488716006279,
+              4.629393472328549
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
